@@ -1,16 +1,20 @@
-## Hi there 👋
+# Virtual Staging Studio
 
-<!--
-**virtualstagingstudio/virtualstagingstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Virtual staging service for real estate agents, photographers, and property marketers.
+We turn empty or outdated room photos into furnished, buyer-ready listings — without
+touching the physical space.
 
-Here are some ideas to get you started:
+## Services
+- Virtual furniture staging for empty rooms
+- Virtual renovation (flooring, paint, fixtures)
+- Virtual Staging Dining Rooms
+- Virtual Staging Bedroom
+- Virtual Staging Office
+- Twilight and sky replacement for listing photos
+- Day-to-dusk conversion
+- Item removal and photo cleanup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Turnaround
+Most orders delivered within 24-48 hours.
+
+🔗 Website: https://virtualstagingstudio.store
